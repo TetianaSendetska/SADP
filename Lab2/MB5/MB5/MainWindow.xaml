@@ -1,0 +1,30 @@
+﻿<Window x:Class="MB5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MB5"
+        mc:Ignorable="d"
+        Title="MD5" Height="520" Width="369"
+        Background="#713815" >
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush  AlignmentX="Left" ImageSource="/kingsmaker.png" TileMode="None" Stretch="Uniform"/>
+        </Grid.Background>
+        <TextBox HorizontalAlignment="Left" Margin="184,135,0,0" TextWrapping="Wrap"  
+                 Background="White" Foreground="Black" VerticalAlignment="Top" Width="156" Opacity="1" Name="textbox"/>
+        <TextBlock HorizontalAlignment="Left" Margin="184,105,0,0" Background="White" Foreground="Black" 
+                   TextWrapping="Wrap" Text="Введіть текст для хешування" VerticalAlignment="Top"/>
+        <Button Content="Захешувати" HorizontalAlignment="Left" Margin="185,158,0,0" VerticalAlignment="Top" Width="155" Click="HashButton_Click"/>
+        <Button Content="Завантажити файл" HorizontalAlignment="Left" Margin="185,204,0,0" VerticalAlignment="Top" Width="152" Click="LoadFileButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="110,0,0,0" 
+                   Background="White" Foreground="Black" TextWrapping="Wrap" Name="hashTextBox" VerticalAlignment="Center" Width="230"/>
+        <TextBlock HorizontalAlignment="Left"
+                   Background="White" Foreground="Black" Margin="184,266,0,0" TextWrapping="Wrap" Text="Введіть хеш для порівняння" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="110,296,0,0" TextWrapping="Wrap" Name="hashCompare" 
+            Background="White" Foreground="Black" VerticalAlignment="Top" Width="227" Opacity="1"/>
+        <Button Content="Порівняти" HorizontalAlignment="Left" Margin="184,331,0,0" VerticalAlignment="Top" Width="156" Click="CompareButton_Click"/>
+
+    </Grid>
+</Window>
