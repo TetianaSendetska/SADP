@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\PseRanNum.csproj": {}
+    "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\PseRanNum.csproj": {}
   },
   "projects": {
-    "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\PseRanNum.csproj": {
+    "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\PseRanNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\PseRanNum.csproj",
+        "projectUniqueName": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\PseRanNum.csproj",
         "projectName": "PseRanNum",
-        "projectPath": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\PseRanNum.csproj",
+        "projectPath": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\PseRanNum.csproj",
         "packagesPath": "C:\\Users\\Tania Sendetska\\.nuget\\packages\\",
-        "outputPath": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\obj\\",
+        "outputPath": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

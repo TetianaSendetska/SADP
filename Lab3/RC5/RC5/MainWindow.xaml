@@ -1,0 +1,44 @@
+﻿<Window x:Class="RC5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RC5"
+        mc:Ignorable="d"
+        Title="RC5" Height="450" Width="498">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush  AlignmentX="Left" ImageSource="/levi.png" TileMode="None" Stretch="Uniform"/>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Center" Margin="0,35,0,0" Background="White" Foreground="Black" 
+                   TextWrapping="Wrap" Text="Введіть ключ" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,56,0,0" TextWrapping="Wrap" Name="KeyBox" VerticalAlignment="Top" Width="120"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="23,99,0,0" Background="White" Foreground="Black" 
+           TextWrapping="Wrap" Text="Введіть повідомлення" VerticalAlignment="Top" Width="158"/>
+        <TextBox HorizontalAlignment="Left" Margin="23,120,0,0" TextWrapping="Wrap" Name="MessageBox" VerticalAlignment="Top" Width="158"/>
+
+        <Button Content="Зашифрувати" HorizontalAlignment="Left" Margin="23,163,0,0" VerticalAlignment="Top" Width="158" Click="RD5Message_btn"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="23,0,0,0" Background="White" Foreground="Black" 
+   TextWrapping="Wrap" Text="Зашифроване повідомлення" VerticalAlignment="Center"/>
+        <TextBox HorizontalAlignment="Left" Margin="23,230,0,0" TextWrapping="Wrap" Name="ScriptedMessageBox" VerticalAlignment="Top" Width="158" Height="47"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="23,282,0,0" Background="White" Foreground="Black" 
+TextWrapping="Wrap" Text="Дешифроване повідомлення" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="23,303,0,0" TextWrapping="Wrap" Name="DecriptedMessageBox" VerticalAlignment="Top" Width="158"/>
+
+
+        <Button Content="Завантажити файл" HorizontalAlignment="Left" Margin="296,99,0,0" VerticalAlignment="Top" Width="158" Click="LoadFile_btn"/>
+        <TextBox HorizontalAlignment="Left" Margin="296,120,0,0" TextWrapping="Wrap" Name="FileBox" VerticalAlignment="Top" Width="158"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="296,155,0,0" Background="White" Foreground="Black" 
+TextWrapping="Wrap" Text="Введіть шлях для виводу" VerticalAlignment="Top" Width="158"/>
+        <TextBox HorizontalAlignment="Left" Margin="296,171,0,0" TextWrapping="Wrap" Name="FileOutputBox" VerticalAlignment="Top" Width="158"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="296,196,0,0" Background="White" Foreground="Black" 
+TextWrapping="Wrap" Text="Введіть шлях для розшифрованого виводу" VerticalAlignment="Top" Width="158"/>
+        <TextBox HorizontalAlignment="Left" Margin="296,230,0,0" TextWrapping="Wrap" Name="FileDeOutputBox" VerticalAlignment="Top" Width="158"/>
+        <Button Content="Зашифрувати файл" HorizontalAlignment="Left" Margin="296,267,0,0" VerticalAlignment="Top" Width="158" Click="RD5File_btn"/>
+    </Grid>
+</Window>

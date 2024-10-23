@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|c:\\users\\tania sendetska\\source\\repos\\rc5\\rc5\\rc5 algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|solutionrelative:rc5\\rc5 algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|c:\\users\\tania sendetska\\source\\repos\\rc5\\rc5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|solutionrelative:rc5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|c:\\users\\tania sendetska\\source\\repos\\rc5\\rc5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|solutionrelative:rc5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|c:\\users\\tania sendetska\\source\\repos\\rc5\\rc5\\md5 algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|solutionrelative:rc5\\md5 algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|c:\\users\\tania sendetska\\source\\repos\\rc5\\rc5\\rand generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|solutionrelative:rc5\\rand generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|c:\\users\\tania sendetska\\source\\repos\\rc5\\rc5\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|solutionrelative:rc5\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|c:\\users\\tania sendetska\\source\\repos\\rc5\\rc5\\iv generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715F9084-746A-4C91-BC78-8A67512FA93C}|RC5\\RC5.csproj|solutionrelative:rc5\\iv generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IV Generator.cs",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\IV Generator.cs",
+              "RelativeDocumentMoniker": "RC5\\IV Generator.cs",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\IV Generator.cs",
+              "RelativeToolTip": "RC5\\IV Generator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:53:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\Handler.cs",
+              "RelativeDocumentMoniker": "RC5\\Handler.cs",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\Handler.cs",
+              "RelativeToolTip": "RC5\\Handler.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:56:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rand Generator.cs",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\Rand Generator.cs",
+              "RelativeDocumentMoniker": "RC5\\Rand Generator.cs",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\Rand Generator.cs",
+              "RelativeToolTip": "RC5\\Rand Generator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:21:55.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MD5 Algorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\MD5 Algorithm.cs",
+              "RelativeDocumentMoniker": "RC5\\MD5 Algorithm.cs",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\MD5 Algorithm.cs",
+              "RelativeToolTip": "RC5\\MD5 Algorithm.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:20:58.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RC5 Algorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\RC5 Algorithm.cs",
+              "RelativeDocumentMoniker": "RC5\\RC5 Algorithm.cs",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\RC5 Algorithm.cs",
+              "RelativeToolTip": "RC5\\RC5 Algorithm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:20:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RC5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\MainWindow.xaml",
+              "RelativeToolTip": "RC5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T18:19:42.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RC5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\RC5\\RC5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RC5\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:19:40.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

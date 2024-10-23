@@ -32,13 +32,14 @@ namespace PseRanNum
             long[] result = Generator.Generate(Int64.Parse(iter), Int64.Parse(m), Int64.Parse(a), Int64.Parse(c), Int64.Parse(x0));
 
             tblockResult.Text = string.Join(", ", result);
-            tblockResult.Text += "\nПеріод виявлено на індексі " + Generator.CheckPeriod(result);
+            tblockResult.Text += "\nПовторенн знайдено на індексі " + Generator.CheckPeriod(result);
         }
 
         private void btnWriteToFile_Click(object sender, RoutedEventArgs e)
         {
             string createText = "Generated numbers are\n" + tblockResult.Text;
             File.WriteAllText("result.txt", createText);
+            MessageBox.Show("Запис у файл відбувся успішно");
         }
     }
 }

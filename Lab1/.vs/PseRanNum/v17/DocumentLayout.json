@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\",
+  "WorkspaceRootPath": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|e:\\study\\uni\\vs projects\\pserannum\\pserannum\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|solutionrelative:pserannum\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|e:\\study\\uni\\vs projects\\pserannum\\pserannum\\handlers\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|e:\\study\\uni\\vs projects\\sadp\\lab1\\pserannum\\handlers\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|solutionrelative:pserannum\\handlers\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|e:\\study\\uni\\vs projects\\pserannum\\pserannum\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|e:\\study\\uni\\vs projects\\sadp\\lab1\\pserannum\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|solutionrelative:pserannum\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|e:\\study\\uni\\vs projects\\pserannum\\pserannum\\handlers\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|solutionrelative:pserannum\\handlers\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|e:\\study\\uni\\vs projects\\sadp\\lab1\\pserannum\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|solutionrelative:pserannum\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|e:\\study\\uni\\vs projects\\sadp\\lab1\\pserannum\\chanwoo.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{8934607C-739F-4C8F-A9D8-E9DEA83A0271}|PseRanNum\\PseRanNum.csproj|solutionrelative:pserannum\\chanwoo.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Validator.cs",
-              "DocumentMoniker": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\Handlers\\Validator.cs",
-              "RelativeDocumentMoniker": "PseRanNum\\Handlers\\Validator.cs",
-              "ToolTip": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\Handlers\\Validator.cs",
-              "RelativeToolTip": "PseRanNum\\Handlers\\Validator.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBoAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T18:20:02.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Generator.cs",
-              "DocumentMoniker": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\Handlers\\Generator.cs",
-              "RelativeDocumentMoniker": "PseRanNum\\Handlers\\Generator.cs",
-              "ToolTip": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\Handlers\\Generator.cs",
-              "RelativeToolTip": "PseRanNum\\Handlers\\Generator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:12:35.421Z"
+              "Title": "chanwoo.jpg",
+              "DocumentMoniker": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\chanwoo.jpg",
+              "RelativeDocumentMoniker": "PseRanNum\\chanwoo.jpg",
+              "ToolTip": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\chanwoo.jpg",
+              "RelativeToolTip": "PseRanNum\\chanwoo.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-01T13:24:30.626Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "PseRanNum\\MainWindow.xaml",
-              "ToolTip": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\MainWindow.xaml",
-              "RelativeToolTip": "PseRanNum\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-06T14:45:12.965Z",
+              "Title": "Generator.cs",
+              "DocumentMoniker": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\Handlers\\Generator.cs",
+              "RelativeDocumentMoniker": "PseRanNum\\Handlers\\Generator.cs",
+              "ToolTip": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\Handlers\\Generator.cs",
+              "RelativeToolTip": "PseRanNum\\Handlers\\Generator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:12:35.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PseRanNum\\MainWindow.xaml",
+              "ToolTip": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\MainWindow.xaml",
+              "RelativeToolTip": "PseRanNum\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T14:45:12.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PseRanNum\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\Study\\Uni\\VS Projects\\PseRanNum\\PseRanNum\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Study\\Uni\\VS Projects\\SADP\\Lab1\\PseRanNum\\MainWindow.xaml.cs",
               "RelativeToolTip": "PseRanNum\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAAAkAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T14:45:07.598Z"
+              "WhenOpened": "2024-09-06T14:45:07.598Z",
+              "EditorCaption": ""
             }
           ]
         }
