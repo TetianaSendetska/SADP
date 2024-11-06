@@ -1,0 +1,45 @@
+﻿<Window x:Class="RSA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RSA"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="753">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush  AlignmentX="Left" ImageSource="/sasuke.png" TileMode="None" Stretch="Uniform"/>
+        </Grid.Background>
+
+        <Button Content="Завантажити файл" HorizontalAlignment="Left" Margin="23,33,0,0" VerticalAlignment="Top" Width="158" Click="LoadFile_btn"/>
+        <TextBox HorizontalAlignment="Left" Margin="23,58,0,0" TextWrapping="Wrap" Name="FileBox" VerticalAlignment="Top" Width="158"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="23,94,0,0" Background="White" Foreground="Black" 
+TextWrapping="Wrap" Text="Введіть шлях для виводу" VerticalAlignment="Top" Width="158"/>
+        <TextBox HorizontalAlignment="Left" Margin="23,110,0,0" TextWrapping="Wrap" Name="FileOutputBox" VerticalAlignment="Top" Width="158"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="23,135,0,0" Background="White" Foreground="Black" 
+TextWrapping="Wrap" Text="Введіть шлях для розшифрованого виводу" VerticalAlignment="Top" Width="158"/>
+        <TextBox HorizontalAlignment="Left" Margin="23,169,0,0" TextWrapping="Wrap" Name="FileDeOutputBox" VerticalAlignment="Top" Width="158"/>
+
+        <Button Content="Зашифрувати RCA" HorizontalAlignment="Left" Margin="23,327,0,0" VerticalAlignment="Top" Width="164" Click="btnEncRCA_Click"/>
+        <Button Content="Дешифрувати RCA" HorizontalAlignment="Left" Margin="23,352,0,0" VerticalAlignment="Top" Width="164" Click="btnDecRCA_Click"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="20,199,0,0" Background="White" Foreground="Black" 
+            TextWrapping="Wrap" Text="Введіть ключ" VerticalAlignment="Top" Width="164"/>
+        <TextBox HorizontalAlignment="Left" Margin="20,226,0,0" TextWrapping="Wrap" Name="KeyBox" VerticalAlignment="Top" Width="165" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.125"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button Content="Зашифрувати RC5" HorizontalAlignment="Left" Margin="23,256,0,0" VerticalAlignment="Top" Width="164" Click="btnEncRC5_Click"/>
+        <Button Content="Дешифрувати RC5" HorizontalAlignment="Left" Margin="23,281,0,0" VerticalAlignment="Top" Width="164" Click="btnDecRC5_Click"/>
+
+        <TextBox HorizontalAlignment="Left" Margin="478,51,0,0" TextWrapping="Wrap" Name="Log" VerticalAlignment="Top" Width="241" Height="321"/>
+    </Grid>
+</Window>
