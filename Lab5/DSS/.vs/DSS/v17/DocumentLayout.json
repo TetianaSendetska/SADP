@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tania Sendetska\\source\\repos\\DSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1440B1BF-9AFF-46FB-BF76-644CD1C21787}|DSS\\DSS.csproj|c:\\users\\tania sendetska\\source\\repos\\dss\\dss\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440B1BF-9AFF-46FB-BF76-644CD1C21787}|DSS\\DSS.csproj|solutionrelative:dss\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440B1BF-9AFF-46FB-BF76-644CD1C21787}|DSS\\DSS.csproj|c:\\users\\tania sendetska\\source\\repos\\dss\\dss\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1440B1BF-9AFF-46FB-BF76-644CD1C21787}|DSS\\DSS.csproj|solutionrelative:dss\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440B1BF-9AFF-46FB-BF76-644CD1C21787}|DSS\\DSS.csproj|c:\\users\\tania sendetska\\source\\repos\\dss\\dss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440B1BF-9AFF-46FB-BF76-644CD1C21787}|DSS\\DSS.csproj|solutionrelative:dss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440B1BF-9AFF-46FB-BF76-644CD1C21787}|DSS\\DSS.csproj|c:\\users\\tania sendetska\\source\\repos\\dss\\dss\\dss method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440B1BF-9AFF-46FB-BF76-644CD1C21787}|DSS\\DSS.csproj|solutionrelative:dss\\dss method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DSS Method.cs",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\DSS\\DSS\\DSS Method.cs",
+              "RelativeDocumentMoniker": "DSS\\DSS Method.cs",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\DSS\\DSS\\DSS Method.cs",
+              "RelativeToolTip": "DSS\\DSS Method.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:21:58.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\DSS\\DSS\\Handler.cs",
+              "RelativeDocumentMoniker": "DSS\\Handler.cs",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\DSS\\DSS\\Handler.cs",
+              "RelativeToolTip": "DSS\\Handler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:21:27.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\DSS\\DSS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DSS\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\DSS\\DSS\\MainWindow.xaml",
+              "RelativeToolTip": "DSS\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T22:48:30.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tania Sendetska\\source\\repos\\DSS\\DSS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DSS\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Tania Sendetska\\source\\repos\\DSS\\DSS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DSS\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:48:28.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
